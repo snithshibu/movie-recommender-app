@@ -93,3 +93,10 @@ st.markdown(
     - The most similar movies are recommended, and then optional genre and 'already seen' filters are applied.
     """
 )
+
+st.caption(
+    """
+    ---
+    Done by Snith Shibu. I was bored lol.
+    """
+)
